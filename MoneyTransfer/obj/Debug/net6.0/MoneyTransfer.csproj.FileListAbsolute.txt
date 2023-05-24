@@ -1,0 +1,15 @@
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\bin\Debug\net6.0\MoneyTransfer.exe
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\bin\Debug\net6.0\MoneyTransfer.deps.json
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\bin\Debug\net6.0\MoneyTransfer.runtimeconfig.json
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\bin\Debug\net6.0\MoneyTransfer.dll
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\bin\Debug\net6.0\MoneyTransfer.pdb
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\MoneyTransfer.csproj.AssemblyReference.cache
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\MoneyTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\MoneyTransfer.AssemblyInfoInputs.cache
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\MoneyTransfer.AssemblyInfo.cs
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\MoneyTransfer.csproj.CoreCompileInputs.cache
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\MoneyTransfer.dll
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\refint\MoneyTransfer.dll
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\MoneyTransfer.pdb
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\MoneyTransfer.genruntimeconfig.cache
+C:\Users\cemt5\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\ref\MoneyTransfer.dll
